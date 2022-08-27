@@ -3,3 +3,4 @@ welcome to git tutorials
 =======
 welcome to git tutorial!
 >>>>>>> master
+1
